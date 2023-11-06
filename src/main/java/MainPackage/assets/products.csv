@@ -1,0 +1,17 @@
+id,title,description,price,stock,category
+1,iPhone_15_Pro,iPhone_15_Pro,49000,10,Electronics
+2,Samsung_M13,Samsung_M13,49000,10,Electronics
+3,Vivo_15_Pro,Vivo_15_Pro,49000,10,Electronics
+4,Mi_Note_15_Pro,Mi_Note_15_Pro,49000,10,Electronics
+5,Realme_GT_Neo,Realme_GT_Neo,49000,10,Electronics
+6,Tshirt,Tshirt,200,20,Fashion
+7,Formal_Shirt,Formal_Shirt,250,20,Fashion
+8,CasualShirt,CasualShirt,220,20,Fashion
+9,Kettle,Kettle,1000,12,Kitchen_Appliances
+10,Mixer,Mixer,1030,13,Kitchen_Appliances
+11,Grinder,Grinder,1500,20,Kitchen_Appliances
+12,Table,Table,2000,30,Home_Appliances
+13,Chair,Chair,2000,10,Home_Appliances
+14,Cot,Cot,2000,5,Home_Appliances
+
+
